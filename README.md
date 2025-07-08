@@ -1,7 +1,7 @@
 # Hi, I'm Clara 👋
 
 🎓 Aerospace Engineering student at Universidad Politécnica de Madrid (UPM)  
-🚀 Currently doing an internship at INTA, contributing to the PLATO mission (ESA)
+🚀 Currently doing an internship at INTA, contributing to the PLATO mission (ESA) by designing an algorithm to analyze the focus quality of the telescopes
 
 🛠️ I enjoy scientific programming and space-related applications. I’ve worked with:
    - Python, MATLAB and Fortran
