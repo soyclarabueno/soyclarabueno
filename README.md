@@ -8,4 +8,5 @@
    - Numerical simulations and telescope calibration under partially simulated space conditions
 
 📫 How to reach me: clara6bueno@gmail.com | https://www.linkedin.com/in/clarabuenolorente/ 
+
 📄 [Download my CV](./Bueno_Clara_CV.pdf)
