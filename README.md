@@ -1,4 +1,4 @@
-# Hi, I'm Clara 👋
+# Hi, I'm Clara 👋🏼
 
 🎓 Aerospace Engineering student at Universidad Politécnica de Madrid (UPM)  
 🚀 Currently doing an internship at INTA, contributing to the PLATO mission (ESA) by designing an algorithm to analyze the focus quality of the telescopes
